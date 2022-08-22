@@ -16,8 +16,7 @@ Os métodos utilizados para realizar este projeto foram: </br>
 *https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest </br>
 
 # `Modo de usar`
-Ao iniciar a ferramenta, o usuário pode escolher entre as opções "Sobre" e "Astromatch". Na opção "Sobre" é mostrada uma breve descrição do projeto. Já a opção "Astromatch" leva o usuário para a aplicação em si. </br>
-Nela, são listados perfis (com as informações de nome, foto, idade e descrição) um de cada vez para o usuário e este tem a opção de dar "like" ou "disklike":
+Ao iniciar a ferramenta, o usuário pode escolher entre as opções "Sobre" e "Astromatch". Na opção "Sobre" é mostrada uma breve descrição do projeto. Já a opção "Astromatch" leva o usuário para a aplicação em si, onde são listados perfis (com as informações de nome, foto, idade e descrição) um de cada vez para o usuário, que tem a opção de dar "like" ou "disklike":
 - Caso o usuário optar por "dislike", nada ocorre e um novo perfil é mostrado na tela.
 - Caso o usuário optar por "like" e o perfil atual também deu "like" para o usuário (essa informação vem da API), uma mensagem de "match" é exibida na tela e este perfil é inserido em uma lista de matches (tarefa também feita pela API). </br>
 
