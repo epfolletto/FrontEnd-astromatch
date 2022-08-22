@@ -25,8 +25,13 @@ No canto superior direito existe um ícone que leva o usuário para a tela de ma
 Ao finalizar a lista de perfis disponíveis, uma mensagem é exibida e o usuário deve resertar a lista e pode iniciar novamente o processo de "likes" e "dislikes", para isso, um botão "Resetar" é apresentado no lugar do botões de "like" e "dislike".
 
 # `Instalando e rodando o projeto`
-Para usar localmente o projeto, basta:
+Fazer o clone do projeto:
+- git clone link-do-repositório
+
+Instalar as dependências:
 - npm install
+
+Rodar o projeto:
 - npm run start
 
 # `Tecnologias utilizadas`
@@ -43,6 +48,9 @@ Para usar localmente o projeto, basta:
 
 # `Autor`
 Evandro Paulo Folletto
+</br>
+<a href="https://www.linkedin.com/in/evandrofolletto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/epfolletto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+</br>
 
 # `Imagens`
 ### Tela inicial:
