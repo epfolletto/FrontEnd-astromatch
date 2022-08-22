@@ -20,7 +20,7 @@ Ao iniciar a ferramenta, o usuário pode escolher entre as opções "Sobre" e "A
 - Caso o usuário optar por "dislike", nada ocorre e um novo perfil é mostrado na tela.
 - Caso o usuário optar por "like" e o perfil atual também deu "like" para o usuário (essa informação vem da API), uma mensagem de "match" é exibida na tela e este perfil é inserido em uma lista de matches (tarefa também feita pela API). </br>
 
-No canto superior direito existe um ícone que leva o usuário para a tela de matches, e lá é exibida uma lista de matches. Caso a lista esteja vazia, uma mensagem indicando tal situação é mostrada. </br>
+No canto superior direito existe um ícone que leva o usuário para a tela de matches e lá é exibida uma lista de matches. Caso a lista esteja vazia, uma mensagem indicando tal situação é mostrada. </br>
 Ao finalizar a lista de perfis disponíveis, uma mensagem é exibida e o usuário deve resertar a lista e pode iniciar novamente o processo de "likes" e "dislikes", para isso, um botão "Resetar" é apresentado no lugar do botões de "like" e "dislike".
 
 # `Instalando e rodando o projeto`
