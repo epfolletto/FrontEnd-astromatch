@@ -56,11 +56,11 @@ Evandro Paulo Folletto
 ### Tela inicial:
 <img src="./src/assets/img/readme/site1.png"/>
 
-### Tela inicial:
+### Tela Sobre:
 <img src="./src/assets/img/readme/site2.png"/>
 
-### Tela inicial:
+### Tela Perfis:
 <img src="./src/assets/img/readme/site3.png"/>
 
-### Tela inicial:
+### Tela Matches:
 <img src="./src/assets/img/readme/site4.png"/>
