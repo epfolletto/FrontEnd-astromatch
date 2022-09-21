@@ -54,6 +54,7 @@ Evandro Paulo Folletto
 </br>
 
 # `Imagens`
+
 ### Tela inicial:
 <img src="./src/assets/img/readme/site1.png"/>
 
