@@ -5,6 +5,7 @@ Projeto Astromatch
 [Clique aqui!](https://folletto-astromatch.surge.sh)
 
 # `Descrição`
+[Projeto desenvolvido na semana 10 do curso Labenu]. </br>
 O Projeto Astromatch foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API* desenvolvida pela equipe da Labenu, via axios. </br>
 Trata-se de uma ferramenta baseada no aplicativo de encontros Tinder, onde o usuário escolhe entre as opções "like" e "dislike" e então lhe é mostrada uma lista de perfis que deram "match". </br>
 Os métodos utilizados para realizar este projeto foram: </br>
